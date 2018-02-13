@@ -25,6 +25,7 @@
 			<th>apellido</th>
 			<th>direccion</th>
 			<th>email</th>
+			<th>numero casa</th>
 		</tr>
 
 	</div>
