@@ -15,22 +15,24 @@
 
 <body>
 
-<form action="conexion.php" method="post">
-	<div class="table table-bordered">
-	</div>
-	<div>
-		<tr>
-			
-			<th>nombre:</th>
-			<th>apellido</th>
-			<th>direccion</th>
-			<th>email</th>
-			<th>numero casa</th>
-		</tr>
 
-	</div>
+	<div id="body">
 
+<form method="get" action="post">
 
+Nombre: <input type="text" name="nombre"><br>
+
+Apellidos: <input type="text" name="apellidos"><br>
+
+Dirección: <input type="text" name="direccion"><br>
+
+Correo electrónico: <input type="text" name="correo"><br>
+
+Teléfono: <input type="text" name="telefono" ><br>
+
+</form>
+
+</div>
 	
 </body>
 
