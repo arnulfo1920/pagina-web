@@ -1,35 +1,6 @@
 <html>
 	
-	<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Bootstrap Form with jQuery Validations</title>
-<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css" />
-</head>
-	
 
-
-
-
-<body>
-
- <div class="container">
-
-    <div class="signup-form-container">
-    
-         <!-- form start -->
-         <form role="form" id="register-form" autocomplete="off">
-         
-         <div class="form-header">
-          <h3 class="form-title"><i class="fa fa-user"></i> Sign Up</h3>
-                      
-         <div class="pull-right">
-             <h3 class="form-title"><span class="glyphicon glyphicon-pencil"></span></h3>
-         </div>
-                      
-         </div>
-         
-         <div class="form-body">
-                      
             <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
