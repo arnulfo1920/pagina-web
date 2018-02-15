@@ -20,7 +20,7 @@
 
         <div class="row">
             <div class="col-xs-10">
-		<form class="form-inline" role="form">
+		<form class="form-inline my-2 my-lg-0" role="form">
         <div class="form-group">
         <label class="sr-only" for="ejemplo_email_2">Email</label>
          <input type="email" class="form-control" id="ejemplo_email_2" placeholder="Introduce tu email">
@@ -35,9 +35,10 @@
     </div>
 </div>
 </div><div class="page-header">
+    <center>
         
              <div class="col-md-6 col-md-offset-3">
-            <h1><p>registrate</p></h1><br/>
+            <h1><p>registrate</p></h1>
               <div class="form-group">
               <label for="nombre" class="col-lg-2 control-label"></label>
               <div class="col-lg-5">
@@ -86,11 +87,12 @@
 <label class="checkbox-inline">
   <input type="checkbox" id="checkboxEnLinea2" value="opcion_2"> Mujer
 </label><br/>
-            <button type="button" class="btn btn-success">agregar una nueva cuenta</button>
-
+            <button type="button" class="btn btn-success">agregar una nueva cuenta</button><br/>
+</center>
         
 			</div>
 		</form>
+
 
 	</body>
 </html>
